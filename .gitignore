@@ -1,0 +1,9 @@
+target/
+.env
+.env.*
+!.env.example
+*.key
+keypair.json
+**/keypair.json
+
+
